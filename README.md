@@ -24,23 +24,31 @@ Test your complete PyChain ledger.
 
 code was written in Vs code here are the following imports and dependecies needed to conduct this challenge.
 
-![]()
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/imports.PNG)
 
 
 ## Create a Record Data Class
 
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/step1.PNG)
 
 ## Modify the Existing Block Data Class to Store Record Data
 
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/step2.PNG)
 
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/step2A.PNG)
+
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/step2B.PNG)
 
 ## Add Relevant User Inputs to the Streamlit Interface
 
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/step3.PNG)
 
 ## Test the PyChain Ledger by Storing Records
 
-![]()
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/streamlit.PNG)
 
-![]()
+as you can see below the blockchain is validated and storing the records correctly
 
-![]()
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/blockchain.PNG)
+
+![](https://github.com/reiccv/Module_18_Challenge/blob/main/images/validateChain.PNG)
